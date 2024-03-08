@@ -1,8 +1,8 @@
 <h1>Tecnologias usadas :</h1>
-👉 HTML <br>
-👉 CSS<br>
-👉 JAVA SCRIPT<br>
-👉 REACT<br>
+🔧 HTML <br>
+🔧 CSS<br>
+🔧 JAVA SCRIPT<br>
+🔧 REACT<br>
 👉 GIT<br>
 👉 GIT HUB<br>
 
