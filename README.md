@@ -1,10 +1,10 @@
 <h1>Tecnologias usadas :</h1>
-🔧 HTML <br>
-🔧 CSS<br>
-🔧 JAVA SCRIPT<br>
-🔧 REACT<br>
-👉 GIT<br>
-👉 GIT HUB<br>
+ <h6> 🔧 HTML </h6>
+ <h6>🔧 CSS</h6>
+ <h6> 🔧JAVA SCRIPT</h6>
+ <h6> 🔧REACT</h6>
+ <h6> 👉GIT</h6>
+<h6> 👉GIT HUB</h6>
 
 Contate me :
 📞 (51) 99181-2402<br>
