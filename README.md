@@ -1,11 +1,21 @@
-<h1>Tecnologias usadas :</h1>  
-
+<h1>Sejam bem vindos ao meu perfil</h1>
+🧑‍💻<b>Sobre mim:</b>
+Apaixonado por tecnologia, atualmente estou estudando e criando projetos com html, css e iniciando o aprendisado de java scripts e react <br>
+. Estou estudando full stack no DevClub com  foco em front-end<br>
+<b>Tecnologias usadas :</b><br>
 🔧 HTML <br>
 🔧 CSS<br>
 🔧JAVA SCRIPT<br>
 🔧REACT<br>
 👉GIT<br>
 👉GIT HUB<br>
+✅<b>Metas par 2024:</b><br>
+✔️ Continuar buscando conhecimento e experiências com pessoas e materias de estudo.<br>
+✔️perfeiçoar minhas habilidades<br>
+✔️conhecer lugares e pessoas , trocar experiencias estreitar amizades enfim fazer parte e diferença.
+✔️fazer um projeto que eu aplique todo o conhecimento obtido durante a minha jornada , apilicando as novas tecnologias.
+
+
 
 Contate me :
 📞 (51) 99181-2402<br>
