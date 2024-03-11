@@ -1,25 +1,20 @@
 <h1>Sejam bem vindos ao meu perfil</h1>
-🧑‍💻<b>Sobre mim:</b>
-Apaixonado por tecnologia, atualmente estou estudando e criando projetos com html, css e iniciando o aprendisado de java scripts e react <br>
-. Estou estudando full stack no DevClub com  foco em front-end<br>
-<b>Tecnologias usadas :</b><br>
-🔧 HTML <br>
-🔧 CSS<br>
-🔧JAVA SCRIPT<br>
-🔧REACT<br>
-👉GIT<br>
-👉GIT HUB<br>
+🧑‍💻<b>Sobre mim:</b><br>
+Apaixonado por tecnologia, atualmente estou estudando full stack no DevClub com foco em front-end, criando projetos com html, css e iniciando o aprendisado de java scripts e react <br>
+
 ✅<b>Metas par 2024:</b><br>
-✔️ Continuar buscando conhecimento e experiências com pessoas e materias de estudo.<br>
-✔️perfeiçoar minhas habilidades<br>
-✔️conhecer lugares e pessoas , trocar experiencias estreitar amizades enfim fazer parte e diferença.
-✔️fazer um projeto que eu aplique todo o conhecimento obtido durante a minha jornada , apilicando as novas tecnologias.
+✔️Continuar buscando conhecimento e experiências com pessoas e materias de estudo.<br>
+✔️Aperfeiçoar minhas habilidades<br>
+✔️Conhecer lugares e pessoas , trocar experiencias estreitar amizades enfim fazer parte e diferença.<br>
+✔️Fazer um projeto que eu aplique todo o conhecimento obtido durante a minha jornada e apilicando as novas tecnologias.<br>
+<b>Tecnologias usadas :
+</b>
 
 
 
-Contate me :
-📞 (51) 99181-2402<br>
-📧 djnecco@gmail.com<br>
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
@@ -30,6 +25,9 @@ Contate me :
  
  
 </div><br>
+Contate me :
+📞 (51) 99181-2402<br>
+📧 djnecco@gmail.com<br>
 
 <div> 
  
