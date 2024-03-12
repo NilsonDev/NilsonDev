@@ -2,7 +2,7 @@
 🧑‍💻<b>Sobre mim:</b><br>
 Apaixonado por tecnologia, atualmente estou estudando full stack no DevClub com foco em front-end, criando projetos com html, css e iniciando o aprendisado de java scripts e react <br>
 
-✅<b>Metas par 2024:</b><br>
+✅<b>Metas para 2024:</b><br>
 ✔️Continuar buscando conhecimento e experiências com pessoas e materias de estudo.<br>
 ✔️Aperfeiçoar minhas habilidades<br>
 ✔️Conhecer lugares e pessoas , trocar experiencias estreitar amizades enfim fazer parte e diferença.<br>
