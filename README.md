@@ -1,6 +1,6 @@
 <h1>Sejam bem vindos ao meu perfil</h1>
 🧑‍💻<b>Sobre mim:</b><br>
-Apaixonado por tecnologia, atualmente estou estudandoDesenvolvedor full stack no DevClub com foco em front-end, criando projetos com html, css e iniciando o aprendisado de java scripts e react <br>
+Apaixonado por tecnologia, atualmente estou estudando Desenvolvedor full stack no DevClub com foco em front-end, criando projetos com html, css e iniciando o aprendisado de java scripts e react <br>
 
 ✅<b>Metas para 2024:</b><br>
 ✔️Continuar buscando conhecimento e experiências com pessoas e materias de estudo.<br>
