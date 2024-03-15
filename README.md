@@ -5,7 +5,7 @@ Apaixonado por tecnologia, atualmente estou estudando Desenvolvedor full stack n
 ✅<b>Metas para 2024:</b><br>
 ✔️Continuar buscando conhecimento e experiências com pessoas e materias de estudo.<br>
 ✔️Aperfeiçoar minhas habilidades<br>
-✔️Conhecer lugares e pessoas , trocar experiencias estreitar amizades enfim fazer parte e diferença.<br>
+✔️Conhecer lugares e pessoas , trocar experiencias estreitar amizades enfim fazer a diferença.<br>
 ✔️Fazer um projeto que eu aplique todo o conhecimento obtido durante a minha jornada e apilicando as novas tecnologias.<br>
 <b>Tecnologias usadas :
 </b>
