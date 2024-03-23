@@ -36,5 +36,5 @@ Contate me :
   
 </div>
 
-[![NilsonDev GitHub stats](https://github-readme-stats.vercel.app/api?username=nilsonDev)](https://github.com/anuraghazra/github-readme-stats )
+![NilsonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilsonDev&show_icons=true&theme=transparent)
 
